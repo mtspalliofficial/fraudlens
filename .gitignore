@@ -1,0 +1,6 @@
+data/*.csv
+artifacts/*
+!artifacts/.gitkeep
+__pycache__/
+.venv/
+.pytest_cache/
