@@ -118,5 +118,4 @@ with tab_score:
     with st.expander("Raw transaction / API request body"):
         st.json(tx)
 
-    #.venv\Scripts\Activate.ps1
-streamlit run dashboard\app.py
+   
